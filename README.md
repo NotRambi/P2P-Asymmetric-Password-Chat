@@ -33,4 +33,4 @@ Lastly, specify the PublicKey generated in the key.txt of the second host.
   - this script, called by chat.py, encrypts the data using the PublicKey of the other host or decrypts the data with the PrivateKey of the local host before sending  or after receiving the messages.
 
 ## Credit
-made by NotRambi, free to use 
+made by NotRambi
